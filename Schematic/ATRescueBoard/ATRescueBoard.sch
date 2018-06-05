@@ -6370,7 +6370,7 @@ Source: http://www.vishay.com/docs/10129/hpc0201a.pdf</description>
 <text x="92.456" y="0.381" size="1.778" layer="91" rot="R90">5V</text>
 <text x="87.376" y="-1.651" size="1.778" layer="91" rot="R90">RST</text>
 <text x="89.916" y="-1.651" size="1.778" layer="91" rot="R90">3.3V</text>
-<text x="220.98" y="-2.54" size="1.778" layer="103">Based on HV Rescue Shield v2.0 by 
+<text x="220.98" y="-2.54" size="1.778" layer="97">Based on HV Rescue Shield v2.0 by 
 Jeff Keyzer / MightyOhm Engineering</text>
 <text x="239.522" y="61.087" size="1.778" layer="91" rot="R90">GND</text>
 <text x="236.982" y="61.087" size="1.778" layer="91" rot="R90">AREF</text>
